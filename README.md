@@ -150,7 +150,7 @@ python manage.py runserver
 ### С полным списком возможностей можно ознакомиться в документации:
 `<link>` :    http://127.0.0.1:8000/redoc/
 
-# Авторы:
-## [Nattechhub](https://github.com/Nattechhub)
-## [aidestob](https://github.com/aidestob)
-## [Tlos205](https://github.com/Tlos205)
+## Авторы:
+### [Nattechhub](https://github.com/Nattechhub)
+### [aidestob](https://github.com/aidestob)
+### [Tlos205](https://github.com/Tlos205)
